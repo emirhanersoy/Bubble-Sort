@@ -1,0 +1,7 @@
+C:\Users\Emirhan\Source\Repos\Algoritmalar\Bubble\Bubble\bin\Debug\Bubble.exe.config
+C:\Users\Emirhan\Source\Repos\Algoritmalar\Bubble\Bubble\bin\Debug\Bubble.exe
+C:\Users\Emirhan\Source\Repos\Algoritmalar\Bubble\Bubble\bin\Debug\Bubble.pdb
+C:\Users\Emirhan\Source\Repos\Algoritmalar\Bubble\Bubble\obj\Debug\Bubble.csproj.AssemblyReference.cache
+C:\Users\Emirhan\Source\Repos\Algoritmalar\Bubble\Bubble\obj\Debug\Bubble.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\Source\Repos\Algoritmalar\Bubble\Bubble\obj\Debug\Bubble.exe
+C:\Users\Emirhan\Source\Repos\Algoritmalar\Bubble\Bubble\obj\Debug\Bubble.pdb
